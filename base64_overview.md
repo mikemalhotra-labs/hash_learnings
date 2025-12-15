@@ -1,7 +1,6 @@
 ## Base64 Overview
 
-Base64 is an encoding technique that converts binary data
-into ASCII characters.
+Base64 is a binary-to-text encoding scheme that converts binary data (like images, files) into a safe, printable ASCII string format (using 64 characters) for reliable transmission over text-based systems.
 
 It is commonly used in:
 - Email systems
