@@ -11,4 +11,5 @@ Currently focusing on:
 Base64 is often used to represent binary data in a readable form.
 It is not encryption and can be reversed easily if identified correctly.
 
-Some examples and references here are kept for revision purposes.
+Some examples and references here are kept for revision purposes only .
+I also learned about other hash techniques that i used in other projects.
