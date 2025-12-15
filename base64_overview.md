@@ -14,5 +14,6 @@ Base64 output usually contains:
 - '+' and '/'
 - Optional '=' padding at the end
 
-Because Base64 is reversible, encoded data should never
-be treated as confidential.
+Important distinctions
+- Not Compression: It makes data bigger (by ~33%), it doesn't reduce size.
+- Not Encryption: It's easily reversible; anyone can decode it without a key, so don't use it for secrets. 
