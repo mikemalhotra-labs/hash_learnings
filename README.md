@@ -16,4 +16,18 @@ I also learned about other hash techniques that i used in other projects.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Legacy note : I AM WHERE I NEED TO BE BUT MY PREVIOUS VERSIONS WERE EVEN BETTER
