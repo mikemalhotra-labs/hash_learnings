@@ -13,3 +13,7 @@ It is not encryption and can be reversed easily if identified correctly.
 
 Some examples and references here are kept for revision purposes only .
 I also learned about other hash techniques that i used in other projects.
+
+
+
+Legacy note : I AM WHERE I NEED TO BE BUT MY PREVIOUS VERSIONS WERE EVEN BETTER
